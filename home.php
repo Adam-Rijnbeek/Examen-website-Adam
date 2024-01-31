@@ -28,6 +28,46 @@
 <div id="menu-btn" class="fas fa-bars"></div>
 </section>
 
+
+<section class="services">
+    <h1 class="heading-title"> our services </h1>
+    <div class="box-container">
+        <div class="box">
+            <img src="images/support.png" alt="">
+            <h3>adventure</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/destination.png" alt="">
+            <h3>tour guide</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/hiking.png" alt="">
+            <h3>trekking</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/bonfire.png" alt="">
+            <h3>camp fire</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/signboard.png" alt="">
+            <h3>off road</h3>
+        </div>
+
+        <div class="box">
+            <img src="images/tent.png" alt="">
+            <h3>camping</h3>
+        </div>
+    </div>
+</section>
+
+
+
+
+
 <section class="footer">
 
 <div class="box-container">
