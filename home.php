@@ -81,6 +81,20 @@
     </div>
 </section>
 
+<section class="home-about">
+
+<div class="image">
+    <img src="images/foto22.jpg" alt"">
+</div>
+
+<div class="content">
+    <h3>about us</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores eligendi veritatis repellendus. Deserunt numquam iure laudantium laboriosam magni rem sequi facilis omnis quasi! A placeat officiis, atque nemo labore totam?</p>
+    <a href="about.php" class="btn">read more</a>
+</div>
+
+</section>
+
 <section class="footer">
 
 <div class="box-container">
