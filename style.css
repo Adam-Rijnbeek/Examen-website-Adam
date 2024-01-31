@@ -262,6 +262,35 @@ section{
     margin-top: 2rem;
 }
 
+.home-packages .load-more{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.home-offer{
+    text-align: center;
+}
+
+.home-offer .content{
+    max-width: 70rem;
+    margin: 0 auto;
+}
+
+.home-offer .content h3{
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: var(--black);
+}
+
+.home-offer .content p{
+    font-size: 1.5rem;
+    color: var(--black);
+    line-height: 2;
+    padding: 1rem 0;
+}
+
+
+
 
 
 
