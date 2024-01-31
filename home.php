@@ -92,8 +92,55 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores eligendi veritatis repellendus. Deserunt numquam iure laudantium laboriosam magni rem sequi facilis omnis quasi! A placeat officiis, atque nemo labore totam?</p>
     <a href="about.php" class="btn">read more</a>
 </div>
-
 </section>
+
+
+<section class="home-packages">
+
+<h1 class="heading-title"> our packages </h1>
+
+<div class="box-container">
+
+<div class="box">
+    <div class="image">
+        <img src="images/2plaatje.jpg" alt"">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt dolor natus quas quos expedita distinctio quibusdam consequatur numquam! Numquam incidunt voluptas cupiditate magni ipsam consequatur exercitationem repudiandae velit dolore explicabo.</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/3plaatje.jpg" alt"">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt dolor natus quas quos expedita distinctio quibusdam consequatur numquam! Numquam incidunt voluptas cupiditate magni ipsam consequatur exercitationem repudiandae velit dolore explicabo.</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto22.jpg" alt"">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt dolor natus quas quos expedita distinctio quibusdam consequatur numquam! Numquam incidunt voluptas cupiditate magni ipsam consequatur exercitationem repudiandae velit dolore explicabo.</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+</div>
+
+
+<div class="load-more"><a href="package.php"class="btn">load more</a></div>
+</section>
+    
+
 
 <section class="footer">
 
