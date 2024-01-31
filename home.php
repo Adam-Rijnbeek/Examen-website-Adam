@@ -125,7 +125,7 @@
 
 <div class="box">
     <div class="image">
-        <img src="images/foto22.jpg" alt"">
+        <img src="images/foto33.jpg" alt"">
 </div>
 <div class="content">
     <h3>adventure & tour</h3>

@@ -34,7 +34,34 @@
 </div>
 
 
+<section class="about">
+    <div class="image">
+        <img src="images/foto44.jpg" alt"">
+</div>
 
+<div class="content">
+    <h3>why choose us?</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sint omnis quasi. Laboriosam voluptas labore dignissimos nihil ullam est libero sequi maxime molestiae atque ipsam, pariatur dolore reprehenderit totam beatae.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sint omnis quasi. Laboriosam voluptas labore dignissimos nihil ullam est libero sequi maxime molestiae atque ipsam, pariatur dolore reprehenderit totam beatae.</p>
+<div class="icons-container">
+    <div class="icons">
+        <i class="fas fa-users"></i>
+        <span>top destinations</span>
+</div>
+
+<div class="icons">
+        <i class="fas fa-hand-holding-usd"></i>
+        <span>affordable price</span>
+</div>
+
+<div class="icons">
+        <i class="fas fa-headset"></i>
+        <span>daily guide service</span>
+</div>
+
+</div>
+</div>
+</section>
 
 
 <section class="footer">
