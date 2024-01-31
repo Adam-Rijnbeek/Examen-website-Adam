@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="style.css">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
+
 </head>
 <body>
   <section class="header">
@@ -36,7 +38,8 @@
 
 <section class="about">
     <div class="image">
-        <img src="images/foto44.jpg" alt"">
+    <img src="images/foto44.jpg" alt="">
+
 </div>
 
 <div class="content">
@@ -109,7 +112,7 @@
 
 
 
-
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
