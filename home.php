@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="style.css">
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
 </head>
 <body>
   <section class="header">
@@ -28,6 +29,22 @@
 <div id="menu-btn" class="fas fa-bars"></div>
 </section>
 
+<section class="home">
+
+<div class="home-slider">
+
+<div class="W">
+
+<div class="slide" style="background:url(images/foto1.jpg) no-repeat">
+<div class="content">
+    <span>explore, discover, travel</span>
+    <h3>travel around the world</h3>
+    <a href="package.php" class="btn">discover more</a>
+</div>
+</div>
+</div>
+</div>
+</section>
 
 <section class="services">
     <h1 class="heading-title"> our services </h1>
@@ -63,10 +80,6 @@
         </div>
     </div>
 </section>
-
-
-
-
 
 <section class="footer">
 
@@ -106,13 +119,6 @@
 <div class="credit"> created by <div><span> Adam and Collin</span></div> | all rights reserved | </div>
 
 </section>
-
-
-
-
-
-
-
 
     <script src="script.js"></script>
 </body>
