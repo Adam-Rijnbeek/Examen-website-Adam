@@ -34,7 +34,148 @@
 </div>
 
 
+<section class="packages">
 
+<h1 class="heading-title">our destinations</h1>
+
+<div class="box-container">
+
+<div class="box">
+    <div class="image">
+        <img src="images/fotopackage.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto100.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto200.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto300.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto400.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto500.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto600.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto700.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto800.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto900.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto1000.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+<div class="box">
+    <div class="image">
+        <img src="images/foto1100.jpg" alt="">
+</div>
+<div class="content">
+    <h3>adventure & tour</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <a href="book.php" class="btn">book now</a>
+</div>
+</div>
+
+</div>
+
+
+</section>
 
 
 <section class="footer">
