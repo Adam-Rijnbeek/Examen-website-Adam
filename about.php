@@ -44,8 +44,8 @@
 
 <div class="content">
     <h3>why choose us?</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sint omnis quasi. Laboriosam voluptas labore dignissimos nihil ullam est libero sequi maxime molestiae atque ipsam, pariatur dolore reprehenderit totam beatae.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas sint omnis quasi. Laboriosam voluptas labore dignissimos nihil ullam est libero sequi maxime molestiae atque ipsam, pariatur dolore reprehenderit totam beatae.</p>
+    <p>Why choose us and not someone else? We have top destinations that we offer on our site. the best places to book a trip to. We are also cheaper than our competitors. And finally, we have good service. We will be available every day of the week by email or you can call the number at the bottom of the website. We hope to have informed you sufficiently why you should choose us.</p>
+    
 <div class="icons-container">
     <div class="icons">
         <i class="fas fa-users"></i>

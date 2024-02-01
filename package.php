@@ -45,8 +45,8 @@
         <img src="images/fotopackage.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>barcadera - aruba</h3>
+    <p>This is Barcadera in Aruba. Here in Barcadera you can really enjoy the beautiful pearly white beach and wonderful warmth. You also have nice paths to walk through on the island. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -56,8 +56,8 @@
         <img src="images/foto100.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>Sabaneta - aruba</h3>
+    <p>This is Sabaneta in Aruba. Sabaneta is a bit like Barcadera, but here you have a beautiful big city that you can visit. It also has a beautiful beach of course. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -67,8 +67,8 @@
         <img src="images/foto200.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>honshu - japan</h3>
+    <p>this is honshu japan. Honshu is an island around Japan and has a very beautiful but also very large mountain called Fuij. many tourists come here to visit the mountain. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -78,19 +78,19 @@
         <img src="images/foto300.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>tokyo - japan</h3>
+    <p>this is tokyo in japan. One of the most famous cities in the world, also the ultimate place to go for a trip. beautiful culture and definitely worth going to. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
 
 <div class="box">
     <div class="image">
-        <img src="images/foto400.jpg" alt="">
+        <img src="images/foto12345.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>vik-village - iceland</h3>
+    <p>this is vik village in iceland. Viking Village is a nice place to visit if you want to go to Iceland. You can easily visit other cities in Iceland from there. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -100,8 +100,8 @@
         <img src="images/foto500.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>Jökulsárlón - iceland</h3>
+    <p>this is Jökulsárlón in Iceland. Jökulsárlón is the largest glacial lake in Iceland. It is definitely something to visit on your bucket list. you also can see the north light! does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -111,8 +111,8 @@
         <img src="images/foto600.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>paris - france</h3>
+    <p>this is paris in france. Paris is the largest city in France and of course has the famous Eiffel Tower. You can also walk through the city and visit shops and monuments. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -122,8 +122,8 @@
         <img src="images/foto700.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>winterbergen - germany</h3>
+    <p>this is winterbergen in germany. winterbergen is a place that is often visited as a winter sports destination, but the place is also very beautiful to walk through in the summer. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -133,8 +133,8 @@
         <img src="images/foto800.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>titisee - germany</h3>
+    <p>this is titisee in germany. Titisee is a very large and beautiful lake in Germany. the village next door called feldberg is a small village where you can enjoy nature. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -144,8 +144,8 @@
         <img src="images/foto900.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>gizeh - egypt</h3>
+    <p>this is giza in egypt. Giza is a village in Egypt that is very close to the oldest pyramids in the world! you must visit it once. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -155,8 +155,8 @@
         <img src="images/foto1000.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>lisbon - portugal</h3>
+    <p>this is lisbon in portugal. Lisbon is the capital of Portugal and also a very beautiful place to visit. also nice and warm and beautiful beaches. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -166,8 +166,8 @@
         <img src="images/foto1100.jpg" alt="">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A tempora possimus eligendi mollitia incidunt consectetur corrupti error eos dolor voluptate quae magnam optio, quaerat similique architecto sunt facere, veniam praesentium?</p>
+    <h3>achensee - autstria</h3>
+    <p>this is achensee in austria. Achensee is the largest lake in Austria. Achenkirch is located next to the lake and from there you can walk in winter or summer. does This doesn't suit you? Look here on this page for our other destinations.</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>

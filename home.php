@@ -84,7 +84,7 @@
 <section class="home-about">
 
 <div class="image">
-    <img src="images/foto22.jpg" alt"">
+    <img src="images/fotoabout123.jpg" alt"">
 </div>
 
 <div class="content">
@@ -145,8 +145,8 @@ This is the Sahara. The Sahara is located in the north of Africa through several
 
 <section class="home-offer">
     <div class="content">
-        <h3>upto 50% off</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga necessitatibus sed ut eius, vitae eaque quae expedita quas beatae, dolorum, fugiat quibusdam. Aperiam porro, error dignissimos consequuntur officia repudiandae voluptas.</p>
+        <h3>we want to grow</h3>
+        <p>we as travel & tour want to grow, and with your help we can! this is only the begining! if you are interested in the destinations above and you are convinced to book something. Then click on the button below!</p>
         <a href="book.php" class="btn">book now</a>
 </div>
 </section>
