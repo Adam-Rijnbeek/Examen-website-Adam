@@ -89,7 +89,9 @@
 
 <div class="content">
     <h3>about us</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores eligendi veritatis repellendus. Deserunt numquam iure laudantium laboriosam magni rem sequi facilis omnis quasi! A placeat officiis, atque nemo labore totam?</p>
+    <p>Hello, and welcome to our website! We are Adam and Collin and we are the owners of Travel & Tour. Adam is the one who created the website and is Collin
+       the person who created the design for the website and the texts. We hope that you find it a good website and we strive to make our website better and better.
+    </p>
     <a href="about.php" class="btn">read more</a>
 </div>
 </section>
@@ -106,8 +108,8 @@
         <img src="images/2plaatje.jpg" alt"">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt dolor natus quas quos expedita distinctio quibusdam consequatur numquam! Numquam incidunt voluptas cupiditate magni ipsam consequatur exercitationem repudiandae velit dolore explicabo.</p>
+    <h3>Koh kood - Thailand</h3>
+    <p>this is koh kood. A beautiful island along Thailand, ideal for a trip to. always nice weather and certainly affordable with us. Does this not suit you? Click on load more at the bottom for more destinations!</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -117,8 +119,8 @@
         <img src="images/3plaatje.jpg" alt"">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt dolor natus quas quos expedita distinctio quibusdam consequatur numquam! Numquam incidunt voluptas cupiditate magni ipsam consequatur exercitationem repudiandae velit dolore explicabo.</p>
+    <h3>frankfurt - germany</h3>
+    <p>this is frankfurt. a beautiful city to book a trip to. alone or with friends, it remains fun. Does this not suit you? Click on load more at the bottom for more destinations!</p></p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
@@ -128,8 +130,9 @@
         <img src="images/foto33.jpg" alt"">
 </div>
 <div class="content">
-    <h3>adventure & tour</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt dolor natus quas quos expedita distinctio quibusdam consequatur numquam! Numquam incidunt voluptas cupiditate magni ipsam consequatur exercitationem repudiandae velit dolore explicabo.</p>
+    <h3>sahara - marocco</h3>
+    <p>
+This is the Sahara. The Sahara is located in the north of Africa through several countries, but by far it is most beautiful in Morocco. Does this not suit you? Click on load more at the bottom for more destinations!</p>
     <a href="book.php" class="btn">book now</a>
 </div>
 </div>
