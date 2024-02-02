@@ -18,10 +18,12 @@
   <section class="header">
     
     <a href="home.php" class="logo">Travel & Tour</a>
+    
+<!-- Hier staat de nav bar met de user story's waar je naar toe kan navigeren -->
 
 <nav class="navbar">
       <a href="home.php">home</a>
-      <a href="about.php">about</a>
+      <a href="about.php">about</a>                     
       <a href="package.php">package</a>
       <a href="book.php">book</a>
 </nav>
@@ -35,6 +37,8 @@
 
 <div class="W">
 
+<!-- Hier onder staat tekst wat je ziet als je de website opzoekt/opent. En als achtergrond een mooie afbeelding. -->
+
 <div class="slide" style="background:url(images/foto1.jpg) no-repeat">
 <div class="content">
     <span>explore, discover, travel</span>
@@ -45,6 +49,8 @@
 </div>
 </div>
 </section>
+
+<!-- Hier onder staat het service gedeelte op de home pagina, hier staan pictogrammen, ook wel logo's waar wij gespeciaaliseerd in zijn en wij je daar goed en graag willen in begeleiden. -->
 
 <section class="services">
     <h1 class="heading-title"> our services </h1>
@@ -87,6 +93,8 @@
     <img src="images/fotoabout123.jpg" alt"">
 </div>
 
+<!-- Hier onder the about us op de home pagina, kleine introductie over wie wij zijn en wat we doen. -->
+
 <div class="content">
     <h3>about us</h3>
     <p>Hello, and welcome to our website! We are Adam and Collin and we are the owners of Travel & Tour. Adam is the one who created the website and is Collin
@@ -107,6 +115,10 @@
     <div class="image">
         <img src="images/2plaatje.jpg" alt"">
 </div>
+
+<!-- Hier heb ik op de home pagina 3 bestemmingen gemaakt voor de home pagina.
+Als klanten meteen als geintreseerd zijn, kunnen zij op book now klikken. -->
+
 <div class="content">
     <h3>Koh kood - Thailand</h3>
     <p>this is koh kood. A beautiful island along Thailand, ideal for a trip to. always nice weather and certainly affordable with us. Does this not suit you? Click on load more at the bottom for more destinations!</p>
@@ -154,6 +166,10 @@ This is the Sahara. The Sahara is located in the north of Africa through several
 <section class="footer">
 
 <div class="box-container">
+
+
+<!-- Hier onder heb ik de footer sectie gemaakt.
+Dit komt voor op elke user story, want op elke pagina hoort de footer. Net zoals de nav bar. -->
 
 <div class="box">
     <h3>quick links</h3>

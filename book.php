@@ -40,6 +40,9 @@
 
 <form action="book_form.php" method="post" class="book-form">
 
+
+<!-- Hier onder staat een form. Hier vullen de klant de gegevens in als zij een trip willen boeken. -->
+
 <div class="flex">
     <div class="inputBox">
         <span>name :</span>

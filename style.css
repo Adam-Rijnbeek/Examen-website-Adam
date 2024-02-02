@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
+/* Dit CSS-script (root) maakt gebruik van aangepaste variabelen om belangrijke kleuren en visuele eigenschappen voor een website vast te stellen.
+Het is een handige manier om gemakkelijk en
+consistent de stijlen op de hele website aan te passen.
+Daar zorgt root voor. */
+
+
 :root{
     --main-color:#8e44ad;
     --black: #222;
@@ -306,6 +312,9 @@ section{
     padding: 1rem 0;
 }
 
+
+/* Hier onder heb ik de css voor de about pagina gemaakt. */
+
 .about{
     display: flex;
     align-items: center;
@@ -364,6 +373,9 @@ section{
     display: block;
 }
 
+
+/* Hier onder heb ik de css voor de packages gemaakt. */
+
 .packages .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -415,6 +427,9 @@ section{
     margin-top: 2rem;
 }
 
+
+/* Hier onder heb ik de css voor de book pagina gemaakt. */
+
 .booking .book-form{
     padding: 2rem;
     background: var(--light-bg);
@@ -459,12 +474,7 @@ section{
 }
 
 
-
-
-
-
-
-
+/* Hier onder heb ik de css voor de footer gemaakt. */
 
 .footer{
     background: #222 no-repeat;
@@ -512,6 +522,7 @@ section{
 }
 
 
+/* Hier onder heb ik de website responsive gemaakt door @media te gebruiken. */
 
 @media (max-width:1200px){
 
